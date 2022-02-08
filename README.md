@@ -1,5 +1,15 @@
-### Hi there 👋
+# Mosaab Emam 🇸🇩 🌹 💻
+## Full Stack Web & Javascript Developer
 
+<hr />
+
+📖 Reading: استرجع قلبك - ياسمين مجاهد
+
+Working on (professional projects):
+- TicketNile
+- Aljameela
+- African Folklife
+- SudanDiabetes Federation
 <!--
 **Mosaab-Emam/mosaab-emam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

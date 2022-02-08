@@ -1,8 +1,6 @@
 # Mosaab Emam 🇸🇩 🌹 💻
 ## Full Stack Web & Javascript Developer
 
-<hr />
-
 📖 Reading: استرجع قلبك - ياسمين مجاهد
 
 Working on (professional projects):

@@ -6,7 +6,19 @@
 
 #### Front End
 
-<img src="./vuejs.svg" />
+<img width="32px" height="32px" src="./technologies/apache-cordova-icon.svg" />
+<img width="32px" height="32px" src="./technologies/bash-shell-icon.svg" />
+<img width="32px" height="32px" src="./technologies/bootstrap.svg" />
+<img width="32px" height="32px" src="./technologies/cpanel.svg" />
+<img width="32px" height="32px" src="./technologies/css3.svg" />
+<img width="32px" height="32px" src="./technologies/graphql-icon.svg" />
+<img width="32px" height="32px" src="./technologies/html5.svg" />
+<img width="32px" height="32px" src="./technologies/ionic.svg" />
+<img width="32px" height="32px" src="./technologies/javascript.svg" />
+<img width="32px" height="32px" src="./technologies/laravel-icon.svg" />
+<img width="32px" height="32px" src="./technologies/mongodb.svg" />
+<img width="32px" height="32px" src="./technologies/tailwind-css-icon.svg" />
+<img width="32px" height="32px" src="./technologies/vuejs.svg" />
 
 📖 Reading: استرجع قلبك - ياسمين مجاهد
 

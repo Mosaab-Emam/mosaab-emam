@@ -33,6 +33,7 @@
   <img width="32px" height="32px" src="./technologies/firebase.svg" />
 </div>
 
+
 📖 Reading: استرجع قلبك - ياسمين مجاهد
 
 Working on (professional projects):

@@ -4,7 +4,7 @@
 
 ### Technologies
 
-#### Front End
+#### Front End & Mobile
 
 <div style="display: flex">
   <img width="32px" height="32px" src="./technologies/html5.svg" />

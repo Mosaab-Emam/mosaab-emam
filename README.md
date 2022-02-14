@@ -2,6 +2,8 @@
 
 ## Full Stack Web & Javascript Developer
 
+I code for money, for my 🇸🇩 community, and for fun.
+
 ### Technologies
 
 #### Front End & Mobile

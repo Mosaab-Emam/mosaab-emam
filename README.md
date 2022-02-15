@@ -4,6 +4,16 @@
 
 **I code for money, for my community, and for fun.**
 
+📖 Reading: استرجع قلبك - ياسمين مجاهد
+
+📖 Reading: The Final Empire - Brandon Sanderson
+
+Working on (professional projects):
+- TicketNile
+- Aljameela
+- African Folklife
+- SudanDiabetes Federation
+
 ### Technologies
 
 #### Front End & Mobile
@@ -35,14 +45,6 @@
   <img width="32px" height="32px" src="./technologies/firebase.svg" />
 </div>
 
-
-📖 Reading: استرجع قلبك - ياسمين مجاهد
-
-Working on (professional projects):
-- TicketNile
-- Aljameela
-- African Folklife
-- SudanDiabetes Federation
 <!--
 **Mosaab-Emam/mosaab-emam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

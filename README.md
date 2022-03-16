@@ -28,6 +28,7 @@ Working on (professional projects):
   <img width="32px" height="32px" src="./technologies/bootstrap.svg" />
   <img width="32px" height="32px" src="./technologies/tailwind-css-icon.svg" />
   <img width="32px" height="32px" src="./technologies/vuejs.svg" />
+  <img width="32px" height="32px" src="./technologies/svelte.svg" />
   <img width="32px" height="32px" src="./technologies/ionic.svg" />
   <img width="32px" height="32px" src="./technologies/apache-cordova-icon.svg" />
 </div>

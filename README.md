@@ -6,7 +6,9 @@
 
 📖 Reading: استرجع قلبك - ياسمين مجاهد
 
-📖 Reading: The Final Empire - Brandon Sanderson
+📖 Reading: قلادة مردوخ - أحمد سعد الدين
+
+📖 Reading: The Well of Ascension - Brandon Sanderson
 
 Working on (professional projects):
 - TicketNile

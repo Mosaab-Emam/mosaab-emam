@@ -4,12 +4,6 @@
 
 **I code for money, for my community, and for fun.**
 
-📖 Reading: استرجع قلبك - ياسمين مجاهد
-
-📖 Reading: قلادة مردوخ - أحمد سعد الدين
-
-📖 Reading: The Well of Ascension - Brandon Sanderson
-
 Working on (professional projects):
 - TicketNile
 - Aljameela

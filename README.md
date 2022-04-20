@@ -4,6 +4,8 @@
 
 **I code for money, for my community, and for fun.**
 
+[![Mosaab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosaab-emam)](https://github.com/anuraghazra/github-readme-stats)
+
 Working on (professional projects):
 - TicketNile
 - Aljameela

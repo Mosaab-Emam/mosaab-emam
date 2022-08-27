@@ -2,6 +2,8 @@
 
 **I code for money, for my community, and for fun.**
 
+<img src="https://komarev.com/ghpvc/?username=Mosaab-Emam&&style=flat-square" align="center" />
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=mosaab-emam&count_private=true&show_icons=true&include_all_commits=true" />
 </a>

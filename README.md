@@ -2,14 +2,14 @@
 
 **I code for money, for my community, and for fun.**
 
-<a href="https://www.buymeacoffee.com/mosaabemam" target="_blank" style="display: inline-block;">
-    <img src="https://komarev.com/ghpvc/?username=Mosaab-Emam&&style=flat-square" align="center" />
+<a href="https://www.github.com/mosaab-emam" target="_blank" style="display: inline-block;">
+    <img src="https://komarev.com/ghpvc/?username=Mosaab-Emam&&style=for-the-badge" align="center" />
+</a>
+<a href="https://www.github.com/mosaab-emam" target="_blank" rel="noreferrer">
+    <img align="center" src="https://img.shields.io/github/followers/mosaab-emam?logo=github&style=for-the-badge" />
 </a>
 <a href="https://www.buymeacoffee.com/mosaabemam" target="_blank" style="display: inline-block;">
-    <img
-        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-        align="center"
-    />
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge&logo=buymeacoffee" align="center" />
 </a>
 
 <br />
@@ -57,9 +57,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-</td></tr></table>  
-
-<br/>  
+</td></tr></table>
 
 
 ## Connect with me
@@ -67,12 +65,12 @@
 <a href="https://twitter.com/EmamMosaab" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/mosaabemam" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/mosaab-emam" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/mosaabemam.sd" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/mosaabemam" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>

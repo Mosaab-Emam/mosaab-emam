@@ -19,15 +19,6 @@
 <a href="https://github.com/mosaab-emam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaab-emam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a href="http://www.github.com/mosaab-emam"><img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=mosaab-emam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=mosaab-emam&count_private=true&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img style="height: 195px" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaab-emam&layout=compact" />
-</a>
-
 ---
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">

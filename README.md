@@ -18,16 +18,17 @@
 <a><h2>Stats</h2></a>
 <div>
     <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&username=mosaab-emam&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&username=mosaab-emam&theme=onedark&custom_title=GitHub+Stats&hide_border=true" />
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mosaab-emam&theme=onedark&hide_border=true"/>
     </a>
+    <a href="https://github.com/mosaab-emam">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaab-emam&theme=onedark&layout=compact&langs_count=4&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    </a>
 </div>
 
-<a href="https://github.com/mosaab-emam" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaab-emam&theme=onedark&layout=compact&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+
 
 ---
 ## My Skill Set  

@@ -26,7 +26,8 @@
 </div>
 
 <a href="https://github.com/mosaab-emam" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaab-emam&theme=onedark&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaab-emam&theme=onedark&layout=compact&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
 
 ---
 ## My Skill Set  

@@ -15,6 +15,12 @@
 <br />
 <br />
 
+<a><h2>:zap: Recent Activity</h2></a>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 <a><h2>Stats</h2></a>
 <div>
     <a href="https://github-readme-stats.vercel.app">

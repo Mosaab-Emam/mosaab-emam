@@ -1,3 +1,4 @@
+<!--
 ## Full Stack Web & Javascript Developer
 
 **I code for money, for my community, and for fun.**
@@ -14,7 +15,7 @@
 
 <br />
 <br />
-
+-->
 <a><h2>:zap: Recent Activity</h2></a>
 
 <!--START_SECTION:activity-->

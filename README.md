@@ -1,30 +1,3 @@
-<!--
-## Full Stack Web & Javascript Developer
-
-**I code for money, for my community, and for fun.**
-
-<a href="https://www.github.com/mosaab-emam" target="_blank" style="display: inline-block;">
-    <img src="https://komarev.com/ghpvc/?username=Mosaab-Emam&&style=for-the-badge" align="center" />
-</a>
-<a href="https://www.github.com/mosaab-emam" target="_blank" rel="noreferrer">
-    <img align="center" src="https://img.shields.io/github/followers/mosaab-emam?logo=github&style=for-the-badge" />
-</a>
-<a href="https://www.buymeacoffee.com/mosaabemam" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge&logo=buymeacoffee" align="center" />
-</a>
-
-<br />
-<br />
--->
-<div>
-    <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&username=mosaab-emam&theme=onedark&custom_title=GitHub+Stats&hide_border=true" />
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mosaab-emam&theme=onedark&hide_border=true"/>
-    </a>
-</div>
-
 <a><h2>:zap: Recent Activity</h2></a>
 
 <!--START_SECTION:activity-->
@@ -35,11 +8,18 @@
 5. 🗣 Commented on [#1292](https://github.com/expressjs/expressjs.com/issues/1292) in [expressjs/expressjs.com](https://github.com/expressjs/expressjs.com)
 <!--END_SECTION:activity-->
 
----
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<div>
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&username=mosaab-emam&theme=onedark&custom_title=GitHub+Stats&hide_border=true" />
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mosaab-emam&theme=onedark&hide_border=true"/>
+    </a>
+</div>
 
+<br />
 
+<table><tr><td valign="top" width="50%">
 
 ### Frontend  
 
@@ -52,7 +32,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 ### Backend  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -65,28 +45,4 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
-</td><td valign="top" width="33%">
-
-
-
-### Servers & DevOps
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 </td></tr></table>
-
-
-## Connect with me
-
-<a href="https://twitter.com/EmamMosaab" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mosaab-emam" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/mosaabemam.sd" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/mosaabemam" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>

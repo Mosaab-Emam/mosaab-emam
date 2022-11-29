@@ -1,11 +1,11 @@
 <a><h2>:zap: Recent Activity</h2></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1679](https://github.com/nuxt-community/i18n-module/issues/1679) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
-2. 🗣 Commented on [#1680](https://github.com/nuxt-community/i18n-module/issues/1680) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
-3. 💪 Opened PR [#1680](https://github.com/nuxt-community/i18n-module/pull/1680) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
-4. 💪 Opened PR [#1679](https://github.com/nuxt-community/i18n-module/pull/1679) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
-5. 💪 Opened PR [#76](https://github.com/sidebase/sidebase/pull/76) in [sidebase/sidebase](https://github.com/sidebase/sidebase)
+1. ❗️ Opened issue [#16185](https://github.com/vuetifyjs/vuetify/issues/16185) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+2. 🗣 Commented on [#1679](https://github.com/nuxt-community/i18n-module/issues/1679) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
+3. 🗣 Commented on [#1680](https://github.com/nuxt-community/i18n-module/issues/1680) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
+4. 💪 Opened PR [#1680](https://github.com/nuxt-community/i18n-module/pull/1680) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
+5. 💪 Opened PR [#1679](https://github.com/nuxt-community/i18n-module/pull/1679) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
 <!--END_SECTION:activity-->
 
 <div>

@@ -1,11 +1,11 @@
 <a><h2>:zap: Recent Activity</h2></a>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6189](https://github.com/refined-github/refined-github/issues/6189) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-2. 🗣 Commented on [#151](https://github.com/DamianOsipiuk/vue-query/issues/151) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
-3. ❗️ Opened issue [#16185](https://github.com/vuetifyjs/vuetify/issues/16185) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-4. 🗣 Commented on [#1679](https://github.com/nuxt-community/i18n-module/issues/1679) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
-5. 🗣 Commented on [#1680](https://github.com/nuxt-community/i18n-module/issues/1680) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
+1. 🗣 Commented on [#6190](https://github.com/refined-github/refined-github/issues/6190) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+2. ❗️ Closed issue [#6190](https://github.com/refined-github/refined-github/issues/6190) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+3. 🗣 Commented on [#6189](https://github.com/refined-github/refined-github/issues/6189) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+4. ❗️ Opened issue [#6190](https://github.com/refined-github/refined-github/issues/6190) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+5. ❗️ Opened issue [#6189](https://github.com/refined-github/refined-github/issues/6189) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
 <!--END_SECTION:activity-->
 
 <div>

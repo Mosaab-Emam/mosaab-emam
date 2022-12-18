@@ -1,11 +1,11 @@
 <a><h2>:zap: Recent Activity</h2></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6189](https://github.com/refined-github/refined-github/issues/6189) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-2. 🗣 Commented on [#6190](https://github.com/refined-github/refined-github/issues/6190) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-3. ❗️ Closed issue [#6190](https://github.com/refined-github/refined-github/issues/6190) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-4. 🗣 Commented on [#6189](https://github.com/refined-github/refined-github/issues/6189) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-5. ❗️ Opened issue [#6190](https://github.com/refined-github/refined-github/issues/6190) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+1. ❗️ Opened issue [#1050](https://github.com/InfyOmLabs/laravel-generator/issues/1050) in [InfyOmLabs/laravel-generator](https://github.com/InfyOmLabs/laravel-generator)
+2. 🗣 Commented on [#6189](https://github.com/refined-github/refined-github/issues/6189) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+3. 🗣 Commented on [#6190](https://github.com/refined-github/refined-github/issues/6190) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+4. ❗️ Closed issue [#6190](https://github.com/refined-github/refined-github/issues/6190) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+5. 🗣 Commented on [#6189](https://github.com/refined-github/refined-github/issues/6189) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
 <!--END_SECTION:activity-->
 
 <div>

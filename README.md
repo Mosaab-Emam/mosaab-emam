@@ -1,11 +1,11 @@
 <a><h2>:zap: Recent Activity</h2></a>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16290](https://github.com/vuetifyjs/vuetify/pull/16290) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-2. 💪 Opened PR [#1051](https://github.com/InfyOmLabs/laravel-generator/pull/1051) in [InfyOmLabs/laravel-generator](https://github.com/InfyOmLabs/laravel-generator)
-3. ❗️ Opened issue [#1050](https://github.com/InfyOmLabs/laravel-generator/issues/1050) in [InfyOmLabs/laravel-generator](https://github.com/InfyOmLabs/laravel-generator)
-4. 🗣 Commented on [#6189](https://github.com/refined-github/refined-github/issues/6189) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-5. 🗣 Commented on [#6190](https://github.com/refined-github/refined-github/issues/6190) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+1. ❗️ Opened issue [#1053](https://github.com/InfyOmLabs/laravel-generator/issues/1053) in [InfyOmLabs/laravel-generator](https://github.com/InfyOmLabs/laravel-generator)
+2. ❗️ Opened issue [#1052](https://github.com/InfyOmLabs/laravel-generator/issues/1052) in [InfyOmLabs/laravel-generator](https://github.com/InfyOmLabs/laravel-generator)
+3. 💪 Opened PR [#16290](https://github.com/vuetifyjs/vuetify/pull/16290) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+4. 💪 Opened PR [#1051](https://github.com/InfyOmLabs/laravel-generator/pull/1051) in [InfyOmLabs/laravel-generator](https://github.com/InfyOmLabs/laravel-generator)
+5. ❗️ Opened issue [#1050](https://github.com/InfyOmLabs/laravel-generator/issues/1050) in [InfyOmLabs/laravel-generator](https://github.com/InfyOmLabs/laravel-generator)
 <!--END_SECTION:activity-->
 
 <div>

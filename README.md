@@ -1,3 +1,5 @@
+![Metrics](https://github.com/mosaab-emam/mosaab-emam/blob/master/github-metrics.svg)
+
 <a><h2>:zap: Recent Activity</h2></a>
 
 <!--START_SECTION:activity-->

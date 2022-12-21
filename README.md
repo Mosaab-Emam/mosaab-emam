@@ -1,4 +1,4 @@
-![Metrics](https://github.com/mosaab-emam/mosaab-emam/blob/master/github-metrics.svg)
+![Metrics](/github-metrics.svg)
 
 <a><h2>:zap: Recent Activity</h2></a>
 

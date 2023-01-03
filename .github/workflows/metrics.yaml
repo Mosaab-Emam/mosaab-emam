@@ -17,6 +17,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, community
           base_hireable: yes
+          plugin_folloup: yes
+          plugin_followup_sections: user
           plugin_activity: yes
           plugin_activity_limit: 10
           plugin_activity_filter: issue, pr, release, review, ref/create

@@ -16,3 +16,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories, activity, community
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugin_posts_user: mosaabemam
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
